@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ankita Sonal 👋
 
-<!--
-**Sonalankita84/Sonalankita84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Final-Year Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a BCA final-year student interested in software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- Python
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQLite
+- Git & GitHub
+
+## 🚀 Projects
+
+### Student Management System
+
+A console-based student management application built using Python and SQLite.
+
+**Features:** CRUD operations, search, update, delete, input validation.
+
+[View Project](https://github.com/Sonalankita84/student-management-system)
+
+## 🎯 Currently Learning
+
+- Python development
+- JavaScript
+- Database development
+- Git & GitHub
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ankita-sonal-593776214/)
