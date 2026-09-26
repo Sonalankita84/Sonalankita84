@@ -24,7 +24,13 @@ A console-based student management application built using Python and SQLite.
 **Features:** CRUD operations, search, update, delete, input validation.
 
 [View Project](https://github.com/Sonalankita84/student-management-system)
+### JavaScript Task Manager
 
+A responsive task management web application built using HTML, CSS and JavaScript.
+
+**Features:** Add, complete, delete, filter tasks and save tasks using Local Storage.
+
+[View Project](https://github.com/Sonalankita84/javascript-task-manager)
 ## 🎯 Currently Learning
 
 - Python development
