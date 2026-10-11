@@ -1,43 +1,43 @@
 # Hi, I'm Ankita Sonal 👋
 
-### BCA Final-Year Student | Aspiring Software Developer
+### Aspiring Software Developer | Python | JavaScript | Web Development
 
-I'm a BCA final-year student interested in software development and building practical applications.
+I'm an aspiring software developer who enjoys building practical applications and improving my programming skills through hands-on projects. I'm focused on writing clean, maintainable code, learning new technologies, and developing solutions to real-world problems.
 
-## 💻 Technical Skills
+## 🛠️ Technical Skills
 
-- Python
-- Java
-- C++
-- HTML
-- CSS
-- JavaScript
-- SQLite
-- Git & GitHub
+- **Programming Languages:** Python, Java, C++, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Database:** SQLite
+- **Tools:** Git, GitHub, VS Code
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Student Management System
+### 1. Student Management System
+A web-based application built with Python, Flask, and SQLite to add, search, edit, and delete student records.
 
-A console-based student management application built using Python and SQLite.
+- **Technologies:** Python, Flask, SQLite, HTML, CSS
+- [🌐 Live Demo](https://ankitasonal84.pythonanywhere.com/)
+- [💻 GitHub Repository](https://github.com/Sonalankita84/student-management-system)
 
-**Features:** CRUD operations, search, update, delete, input validation.
+### 2. JavaScript Task Manager
+An interactive task management application that allows users to add, complete, delete, and filter tasks, with tasks saved using browser local storage.
 
-[View Project](https://github.com/Sonalankita84/student-management-system)
-### JavaScript Task Manager
+- **Technologies:** HTML, CSS, JavaScript, Local Storage
+- [🌐 Live Demo](https://sonalankita84.github.io/javascript-task-manager/)
+- [💻 GitHub Repository](https://github.com/Sonalankita84/javascript-task-manager)
 
-A responsive task management web application built using HTML, CSS and JavaScript.
+## 📚 Currently Learning
 
-**Features:** Add, complete, delete, filter tasks and save tasks using Local Storage.
+- Improving Python and JavaScript programming skills
+- Strengthening problem-solving and data structure fundamentals
+- Building more practical web development projects
 
-[View Project](https://github.com/Sonalankita84/javascript-task-manager)
-## 🎯 Currently Learning
+## 🎯 Career Goal
 
-- Python development
-- JavaScript
-- Database development
-- Git & GitHub
+To begin my professional journey in the IT industry, contribute to meaningful projects, collaborate with a development team, and continue growing as a software professional.
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ankita-sonal-593776214/)
+- [GitHub](https://github.com/Sonalankita84)
+- [LinkedIn](www.linkedin.com/in/ankita-sonal-593776214)
